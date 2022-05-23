@@ -1,0 +1,35 @@
+* {
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+h1 {
+    text-align: center;
+    color: goldenrod;
+}
+p {
+    text-align: center;
+    color: white;
+}
+#message-el {
+    font-style: italic;
+}
+.centre {
+    
+    display: flex;
+    justify-content: center;
+}
+#colo {
+    background-color: goldenrod;
+    border-radius: 10px;
+    width: 150px;
+    font-weight: bold;
+    margin: 2px;
+}
+#colo1 {
+    background-color: goldenrod;
+    border-radius: 10px;
+    width: 150px;
+    font-weight: bold;
+    margin: 2px;
+}
